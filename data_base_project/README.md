@@ -31,10 +31,10 @@
 
 # phisic_model
 
-[phisic_model](https://gitlab.atp-fivt.org/db2024s/abdullabekovma-project/-/tree/dev/docs/phisic_model.md)
+[phisic_model](docs/phisic_model.md)
 
 ## Скрипты
 
 ниже приведена ссылка на папку со скриптами
 
-[scripts](https://gitlab.atp-fivt.org/db2024s/abdullabekovma-project/-/tree/dev/sql-scripts)
+[scripts](sql-scripts)
